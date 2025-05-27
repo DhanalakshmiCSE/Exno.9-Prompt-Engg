@@ -1,6 +1,6 @@
 ### Exno.9-To explore and understand the various prompting techniques used for generating videos through AI models. 
  
-### Register no.: 212222040033
+### Register number: 212222040033
 ### Aim: 
 To explore and understand the various prompting techniques used for generating videos using AI-powered video generation models and platforms.
 
